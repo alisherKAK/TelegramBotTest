@@ -1,0 +1,12 @@
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\obj\Debug\TelegramBotTest.csprojAssemblyReference.cache
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\obj\Debug\TelegramBotTest.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\TelegramBotTest.exe.config
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\TelegramBotTest.exe
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\TelegramBotTest.pdb
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\Newtonsoft.Json.dll
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\Telegram.Bot.dll
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\Newtonsoft.Json.xml
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\bin\Debug\Telegram.Bot.xml
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\obj\Debug\TelegramBotTest.csproj.CopyComplete
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\obj\Debug\TelegramBotTest.exe
+E:\VisualStudio\C#\TelegramBotTest\TelegramBotTest\obj\Debug\TelegramBotTest.pdb
